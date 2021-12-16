@@ -1,1 +1,3 @@
 # xview
+
+xview = xstate + stateview
